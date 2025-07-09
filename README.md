@@ -22,7 +22,7 @@ The goal of this project is to build a classification model using Python that he
 
 ## 📂 Dataset
 
-- Source: [Kaggle – Loan Prediction Dataset](https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset)
+- Source: [Kaggle – Loan Prediction Dataset](https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset)
 - Features include:
   - `ApplicantIncome`, `CoapplicantIncome`, `LoanAmount`, `Credit_History`, etc.
 - Target variable: `Loan_Status` (Y/N)
